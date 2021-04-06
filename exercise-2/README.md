@@ -28,7 +28,8 @@ Learn the basics of git workflow, including adding new files.
 6. check the repo on your github account.  Did it work?
 
 
-![This is an outdoor shower by the beach](./IMG_9865.jpg)
+![cat](cat.jpeg)
+
 
 
 
